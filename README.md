@@ -9,16 +9,3 @@
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
-
-<style>
-.telegram-btn {
-  display: inline-block;
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
-  border-radius: 12px;
-}
-
-.telegram-btn:hover {
-  transform: translateY(-3px);
-  box-shadow: 0 8px 20px rgba(44, 165, 224, 0.3);
-}
-</style>
