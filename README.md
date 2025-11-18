@@ -3,37 +3,23 @@
 <div id="header" align="center">
   <img src="images/From KlickPin CF Nudity and Nerdery _ Animated banners Cute wallpapers Banner.gif"/>
 </div>
-<!-- Добавьте в head -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 
 <div id="badges">
-  <a href="https://t.me/nekkkkate" class="icon-telegram-btn">
-    <i class="fab fa-telegram"></i>
-    <span>Telegram</span>
+  <a href="https://t.me/nekkkkate" class="minimal-btn">
+    <img src="https://img.shields.io/badge/woM_renepaw()-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
 
 <style>
-.icon-telegram-btn {
-  display: inline-flex;
-  align-items: center;
-  gap: 8px;
-  padding: 12px 20px;
-  background: #2CA5E0;
-  color: white;
-  text-decoration: none;
-  border-radius: 8px;
-  font-family: Arial, sans-serif;
-  font-weight: bold;
+.minimal-btn {
+  display: inline-block;
   transition: all 0.3s ease;
+  border-radius: 10px;
+  overflow: hidden;
 }
 
-.icon-telegram-btn:hover {
-  background: #229ED9;
+.minimal-btn:hover {
   transform: scale(1.05);
-}
-
-.icon-telegram-btn i {
-  font-size: 20px;
+  filter: brightness(1.1);
 }
 </style>
