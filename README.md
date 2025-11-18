@@ -1,4 +1,5 @@
-## ✨✨✨
+## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXQ5MWpydjF6eWR0eHJrbWo4ZTh6aDZtcXh2c2xjZHNrNXppNnhpcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mEV9NyXOQU9lxfTO7A/giphy.gif" width="60" style="vertical-align: middle; margin: 0 10px; border-radius: 8px;">
+
 
 <div id="header" align="center">
   <img src="images/From KlickPin CF Nudity and Nerdery _ Animated banners Cute wallpapers Banner.gif"/>
