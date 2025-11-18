@@ -2,7 +2,7 @@
 
 
 <div id="header" align="center">
-  <img src="images/From KlickPin CF Nudity and Nerdery _ Animated banners Cute wallpapers Banner.gif"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGwwZTM3ZHg4dW9ocm82MDl5bG5kdndtZTJ3bnZkdGYxYnIwOGp3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZNzRZyxBeaglWvXAT3/giphy.gif"/>
 </div>
 
 <div id="badges" style="text-align: center;">
