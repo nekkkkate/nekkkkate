@@ -10,7 +10,7 @@
   </a>
 
   <a href="https://docs.google.com/document/d/1NX7nwAYxqOjI4SwQKAOToxDzwSt-zClRcfsuhKKnNPA/edit?usp=sharing" class="resume-btn">
-    <img src="https://img.shields.io/badge/cvc-FF86B1?style=for-the-badge&logo=readthedocs&logoColor=FFCFE0" alt="Резюме"/>
+    <img src="https://img.shields.io/badge/cv-FF86B1?style=for-the-badge&logo=readthedocs&logoColor=FFCFE0" alt="Резюме"/>
   </a>
   
 </div>
