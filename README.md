@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 
 <div id="header" align="center">
-  <img src="images/From KlickPin CF Nudity and Nerdery _ Animated banners Cute wallpapers Banner.gif" width="100"/>
+  <img src="images/From KlickPin CF Nudity and Nerdery _ Animated banners Cute wallpapers Banner.gif"/>
 </div>
